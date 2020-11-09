@@ -17,7 +17,7 @@ export default function NavBar() {
               <Link className="text-white text-uppercase align-center h5 " to="/saldo">Saldo&nbsp;<i class="fas fa-home"></i></Link>
             </li>
             <li className="nav-item ml-2">
-              <Link className="text-white text-uppercase align-center h5 ml-5" to="/addMovements"> Movimientos</Link>
+              <Link className="text-white text-uppercase align-center h5" to="/addMovements"> Movimientos&nbsp;<i class="fas fa-home"></i></Link>
             </li>
           </ul>
         </div>
